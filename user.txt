@@ -1,0 +1,13 @@
+    Medicine:crocin  Quantity:2
+    Medicine:crocin  Quantity:2
+  
+     Medicine:crocin  Quantity:1
+    Medicine:2  Quantity:2
+    Medicine:crocin  Quantity:2
+    Medicine:flexon  Quantity:3
+    Medicine:crocin  Quantity:1
+    Medicine:crocin  Quantity:2
+    Medicine:flexon  Quantity:3
+    Medicine:crocin  Quantity:2
+    Medicine:flexon  Quantity:3
+    Medicine:crocin  Quantity:2
